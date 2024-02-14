@@ -1,6 +1,4 @@
-/// <summary>
-/// To make your life easier with c#
-/// </summary>
+using Godot;
 
 public static class Physics
 {
